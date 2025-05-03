@@ -1,9 +1,19 @@
 # crossword_9may
 Кроссворд на день победы 20 вопросов, средняя сложность
 
-![Кроссворд](https://github.com/yudls/crossword_9may/blob/main/crossword.png)
+![Кроссворд](https://github.com/yudls/crossword_9may/blob/main/кроссворд.png)
+
+
+
+
 
 ## Вопросы:
+
+
+![Кроссворд вопросы 1](https://github.com/yudls/crossword_9may/blob/main/кроссворд вопросы-1.png)
+
+
+![Кроссворд вопросы 2](https://github.com/yudls/crossword_9may/blob/main/кроссворд вопросы-2.png)
 
 Горизонталь:
 
